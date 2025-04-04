@@ -1,6 +1,6 @@
 ## 🧬 Curated mcrA database
 
-A curated collection of mcrA and mrtA sequences assembled for taxonomical classification of mcrA reads from amplicon sequencing.
+A curated collection of _mcrA_ and _mrtA_ sequences assembled for taxonomical classification of _mcrA_ reads from amplicon sequencing.
 
 ---
 
@@ -15,7 +15,7 @@ A curated collection of mcrA and mrtA sequences assembled for taxonomical classi
 
 ## 🧫 Description
 
-This database contains curated DNA mcrA and mrtA sequences sourced from the NCBI database using RESCRIPt followed up by a manual review.
+This database contains curated DNA _mcrA_ and _mrtA_ sequences sourced from the NCBI database using [RESCRIPt](https://github.com/bokulich-lab/RESCRIPt) and sequences extracted from genomes sourced from NCBI and extracted using [GeneScoop](https://github.com/Zblezble/GeneScoop) and followed up by a manual review.
 The goal is to provide a high-quality, reusable dataset for the community. Only sequences featuring species annotations are present.
 
 Featururing:
@@ -27,3 +27,5 @@ Featururing:
 ## 🛠️ Usage
 
 The database is in DADA2 comaptible format.
+
+This database is released under a CC BY 4.0 license. See LICENSE for more details.
