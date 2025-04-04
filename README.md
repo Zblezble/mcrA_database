@@ -1,4 +1,4 @@
-## 🧬 Curated mcrA database
+## 🧬 Curated _mcrA_ database
 
 A curated collection of _mcrA_ and _mrtA_ sequences assembled for taxonomical classification of _mcrA_ reads from amplicon sequencing.
 
