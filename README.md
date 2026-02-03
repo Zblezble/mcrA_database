@@ -9,7 +9,8 @@ A curated collection of _mcrA_ and _mrtA_ sequences assembled for taxonomical cl
 - mcrA_SRD.fas – suitable for 2×150 bp sequencing (Short Read Database, e.g. MiniSeq, qmcrAF and mcrA-rev primers)
 - mcrA_LRD.fas – suitable for 2×300 or 2×250 bp sequencing (Long Read Database, e.g. MiSeq, Mlas-mod-F and mcrA-rev primers)
 - LICENSE – Licensing information  
-- README.md – This file  
+- README.md – This file
+- extras/ – additional data (phylogenetic tree, uncut _mcrA_ sequences and alternative database format with original NCBI accession IDs)
 
 ---
 
