@@ -19,18 +19,20 @@ A curated collection of _mcrA_ and _mrtA_ sequences assembled for taxonomical cl
 
 ## 🧫 Description
 
-This database contains curated DNA _mcrA_ and _mrtA_ sequences sourced from the NCBI database using [RESCRIPt](https://github.com/bokulich-lab/RESCRIPt) and sequences extracted from genomes sourced from NCBI and extracted using [GeneScoop](https://github.com/Zblezble/GeneScoop) and followed up by a manual review.
-The goal is to provide a high-quality, reusable dataset for the community. Only sequences featuring species annotations are present.
+This database contains curated DNA _mcrA_ and _mrtA_ sequences sourced from the NCBI database using [RESCRIPt](https://github.com/bokulich-lab/RESCRIPt) and sequences extracted from genomes sourced from NCBI and extracted using [GeneScoop](https://github.com/Zblezble/GeneScoop) and followed up by a manual review. The steps are documented in the pipeline.
+The goal is to provide a high-quality, reusable dataset for the community. Only sequences featuring species annotations are present (with the exception of some novel taxa).
+
+The dataset consists of 775 sequences in total, 684 _mcrA_ and 91 _mrtA_, encompassing 60 different methanogen genera and 220 different methanogen species.
 
 Featururing:
-- sequences_mcrA.fas features 775 sequences with median length of 1659 bp encompassing 81 different methanogen genera and 286 different methanogen species
-- LRD features 612 sequences with median length of 472 bp
-- SRD features 510 sequences with median length of 215 bp
+- **sequences_mcrA.fas** features 775 sequences with median length of 1659 bp
+- **mcrA_LRD.fas** features 612 sequences with median length of 472 bp
+- **mcrA_SRD.fas** features 510 sequences with median length of 215 bp
 
 ---
 
 ## 🛠️ Usage
 
-The database is in DADA2 comaptible format.
+The database is in **DADA2** comaptible format.
 
 This database is released under a CC BY 4.0 license. See LICENSE for more details.
